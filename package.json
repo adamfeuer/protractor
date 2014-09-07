@@ -51,7 +51,7 @@
     "start": "testapp/scripts/web-server.js"
   },
   "license": "MIT",
-  "version": "1.2.0-hub-httpclient-fix",
+  "version": "1.2.2-hub-httpclient-fix",
   "webdriverVersions": {
     "selenium": "2.43-httpclient-fix",
     "seleniumDownloadUrl": "https://github.com/adamfeuer/selenium/releases/download/selenium-standalone-2.43-httpclient-fix/selenium-server-standalone-2.43-httpclient-fix.jar",
